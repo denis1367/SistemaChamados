@@ -13,7 +13,7 @@ import javax.swing.JComboBox;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextArea;
-
+ 
 import controle.ControleChamados;
 
 public class TelaRelatorioChamado extends JFrame{
