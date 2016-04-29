@@ -16,6 +16,7 @@ import javax.swing.JTextArea;
  
 import controle.ControleChamados;
 
+
 public class TelaRelatorioChamado extends JFrame{
 
 	/**
